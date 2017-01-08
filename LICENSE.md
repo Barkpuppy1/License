@@ -1,9 +1,7 @@
-# TotalFreedom General License #
-_Version 2.0, 27th February 2015_
+# xBarkPuppy1's organization General License #
+_Version 0.1, 8th January 2017_
 
-Copyright (c) 2011 Steven Lawson
-
-Copyright (c) 2012 Jerom van der Sar
+Copyright (c) 2017 xBarkPuppy1 and all Members of xBarkPuppy1's organizations on Github
 
 All rights reserved.
 
