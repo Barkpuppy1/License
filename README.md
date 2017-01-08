@@ -1,6 +1,6 @@
 License
 =======
 
-Default licensing to all TotalFreedom projects.
+Default licensing to all xBarkPuppy1's organization projects.
 
-You can view the license [here](https://github.com/TotalFreedom/License/blob/master/LICENSE.md).
+You can view the license [here](https://github.com/Barkpuppy1/License/blob/master/LICENSE.md).
